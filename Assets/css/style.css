@@ -63,10 +63,6 @@ footer {
     text-align: center;
 }
 
-.seo {
-    color: #d9dcd6;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -117,6 +113,10 @@ footer {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+#seo {
+    color: #d9dcd6;
 }
 
 #float-right {
