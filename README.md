@@ -11,7 +11,7 @@ The website’s URL is https://beastrobel.github.io/challenge-1. A screenshot ca
 
 ## Credits
 
-The starter code for this project was provided by MSU’s Coding Bootcamp. I am responsible for the refactoring of the code.
+The starter code for this project was provided by MSU’s Coding Bootcamp. I am responsible for refactoring the code.
 
 ## License
 
