@@ -7,7 +7,7 @@ My first bootcamp challenge was to refactor a marketing agency's website to incr
 ## Usage
 
 The website’s URL is https://beastrobel.github.io/challenge-1. A screenshot can be viewed below. In order to review the refactored code, please use Google Chrome DevTools, or refer to the HTML and CSS files in the repository https://github.com/beastrobel/challenge-1.
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![screenshot of website](./assets/01-html-css-git-homework-demo.png)
 
 ## Credits
 
