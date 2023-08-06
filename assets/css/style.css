@@ -1,9 +1,11 @@
+/* Universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Type selectors */
 body {
     background-color: #d9dcd6;
 }
@@ -72,6 +74,7 @@ footer {
     background-position: center;
 }
 
+/* Class selectors for services: search engine optimization, online reputation management, and social media marketing */
 .container {
     width: 75%;
     display: inline-block;
@@ -93,6 +96,7 @@ footer {
     margin-right: 25px;
 }
 
+/* Class selectors for the sidebar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -115,10 +119,12 @@ footer {
     max-width: 150px;
 }
 
+/* This id selector styles the color change in Horiseon */
 #seo {
     color: #d9dcd6;
 }
 
+/* This id selector styles floats the 'online reputation' image to the right */
 #float-right {
     float: right;
     margin-right: 0px;
