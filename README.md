@@ -2,7 +2,7 @@
 
 ## Description
 
-My first bootcamp challenge was to refactor a marketing agency's website to increase accessibility. In order to do so, I re-organized the HTML in a semantic structure, eliminating the <div> tag as much as possible in favor of more descriptive tags. I also consolidated CSS selectors and properties for increased efficiency. I followed the W3C Web Accessibility Initiative (WAI) best practices for writing alt text for images, keeping the descriptions concise, and hiding decorative icons through null alt text (alt=””). Finally, I tested the website using the Google Chrome Screen Reader extension, and the WAVE Web Accessibility Evaluation Tool, to verify its accessibility.
+My first bootcamp challenge was to refactor a marketing agency's website to increase accessibility. I re-organized the HTML in a semantic structure, eliminating the div tag as much as possible in favor of more descriptive tags. I consolidated CSS selectors and properties for increased efficiency. I followed the W3C Web Accessibility Initiative (WAI) best practices for writing alt text for images, keeping the descriptions concise, and hiding decorative icons through null alt text (alt=””). Finally, I tested the website using the Google Chrome Screen Reader extension, and the WAVE Web Accessibility Evaluation Tool, to verify its accessibility.
 
 ## Usage
 
